@@ -1,0 +1,1 @@
+wget -P ./hubert/ https://huggingface.co/T-K-233/so-vits-svc-dependency/resolve/main/checkpoint_best_legacy_500.pt

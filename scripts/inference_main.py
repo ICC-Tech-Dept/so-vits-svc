@@ -1,3 +1,5 @@
+import sys
+sys.path.append(".")
 import io
 import logging
 import time

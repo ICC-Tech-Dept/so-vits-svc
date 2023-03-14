@@ -1,3 +1,6 @@
+import sys
+sys.path.append(".")
+
 import logging
 import multiprocessing
 import time

@@ -2,7 +2,7 @@
   "train": {
     "log_interval": 200,
     "eval_interval": 800,
-    "seed": 1234,
+    "seed": 233,
     "epochs": 10000,
     "learning_rate": 0.0001,
     "betas": [

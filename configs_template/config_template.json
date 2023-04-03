@@ -1,8 +1,8 @@
 {
   "train": {
     "log_interval": 50,
-    "eval_interval": 1000,
-    "seed": 1234,
+    "eval_interval": 2000,
+    "seed": 233,
     "port": 8001,
     "epochs": 10000,
     "learning_rate": 0.0002,
@@ -19,7 +19,7 @@
     "init_lr_ratio": 1,
     "warmup_epochs": 0,
     "c_mel": 45,
-    "keep_ckpts":4
+    "keep_ckpts": 8
   },
   "data": {
     "data_dir": "dataset",
